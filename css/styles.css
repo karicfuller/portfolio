@@ -1,0 +1,9 @@
+img {
+  float: right;
+  height: 500px;
+  width: 300px;
+}
+
+.about-me p {
+  text-color: red;
+}
