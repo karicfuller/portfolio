@@ -4,6 +4,8 @@ img {
   width: 300px;
 }
 
-.about-me p {
-  text-color: red;
+.jumbotron {
+  background-color: pink;
+  text-align: center;
+
 }
