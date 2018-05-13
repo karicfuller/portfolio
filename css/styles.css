@@ -13,10 +13,12 @@ img {
   font-size: 15px;
   padding: 4px;
   margin: 12px;
+  border: 2px solid black;
 }
 
-.test {
-  padding: 3px;
-  margin: 30px;
-  background-color: yellow;
+
+
+.me {
+  color: red;
+  font-weight: bold;
 }
