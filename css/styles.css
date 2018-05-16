@@ -1,9 +1,32 @@
 img {
   float: right;
-  height: 500px;
-  width: 300px;
+  height: 350px;
+  width: 200px;
 }
 
+<<<<<<< HEAD
 .about-me {
   text-color: red;
+=======
+.jumbotron {
+  background-color: pink;
+  text-align: center;
+}
+
+.check {
+  font-size: 15px;
+  padding: 10px;
+  margin: 20px;
+  border: 2px solid black;
+  background-color: #ffffc6;
+}
+
+.me {
+  color: red;
+  font-weight: bold;
+}
+
+.fav-color {
+  color: #ff748c;
+>>>>>>> da88da7ec80cb1419e5d77938de083d52cbb14c2
 }
