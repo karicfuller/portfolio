@@ -1,13 +1,13 @@
 img {
   float: right;
-  height: 350px;
+  height: 295px;
   width: 200px;
 }
 
-<<<<<<< HEAD
 .about-me {
   text-color: red;
-=======
+}
+
 .jumbotron {
   background-color: pink;
   text-align: center;
@@ -28,5 +28,4 @@ img {
 
 .fav-color {
   color: #ff748c;
->>>>>>> da88da7ec80cb1419e5d77938de083d52cbb14c2
 }
