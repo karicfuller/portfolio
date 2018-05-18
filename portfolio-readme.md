@@ -11,15 +11,13 @@ This website is information all about me. It's just random facts such as likes a
 ## Website Set-up
 
 * _set-up a new project directory through the terminal_
-* _initialized Git_
+* _initialized Git in terminal_
 * _used Atom for editing .html files and README_
 * _performed multiple commits in the terminal to keep track of changes made_
-* _created a Git Repository_
-* _performed multiple pushes when commits were performed_
+* _created a Git Repository on github.com_
+* _performed multiple pushes through the terminal when commits were performed_
 * _used Markdown language to set up README_
 * _referenced class documentation when needed_
-
-_I advise viewing the website in either the web browser Chrome or Firefox._
 
 ## Technology Used
 
